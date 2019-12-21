@@ -1,1 +1,1 @@
-# learn-gatsby
+# Learn Gatsby
